@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: lightcoral;
+  height: 100vh;
+  color: #333;
+  font-size: 60px; }
